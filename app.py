@@ -26,7 +26,6 @@ def validate():
 
     :return: JSON response containing validation results
     """
-    logging.info("Validating STAC")
     data = request.get_json()
 
     try:
