@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 .idea/
+
+# Propriatery files
+os_*
